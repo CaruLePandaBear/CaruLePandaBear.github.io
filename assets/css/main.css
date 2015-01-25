@@ -9,6 +9,7 @@ Demo URI: 		http://demo.fuviz.com/reen
 /*===================================================================================*/
 /*	GENERAL
 /*===================================================================================*/
+@import url(../fonts/quicksand.css);
 
 *,
 *:before,
@@ -97,7 +98,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'quicksand_light';
     font-weight: 700;
 	letter-spacing: 0.025em;
     color: #506A85;
