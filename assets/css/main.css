@@ -48,9 +48,10 @@ iframe {
     color: #506A85;
 }
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'quicksand_light';
     background-color: #283645;
-    color: #73879C;
+    /*color: #73879C;*/
+    color: black;
     font-size: 18px;
 	line-height: 150%;
     -webkit-font-smoothing: antialiased;
@@ -101,7 +102,7 @@ h6 {
     font-family: 'quicksand_light';
     font-weight: 700;
 	letter-spacing: 0.025em;
-    color: #506A85;
+    color: black;
     margin-top: 0;
 	/*word-wrap: break-word;*/
 }
@@ -1329,6 +1330,8 @@ aside .thumb figure {
 	vertical-align: middle;
     padding: 0;
 	max-width: 300px;
+	font-family: 'quicksand_regular';
+	font-size: 30px;
 }
 .navbar-brand img {
 	max-height: 40px;
@@ -1381,7 +1384,8 @@ aside .thumb figure {
 	line-height: 20px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #506A85;
+    /*color: #506A85;*/
+    color: black;
     padding: 15px 20px;
 	border: 1px solid rgba(255,255,255,0);
 	border-bottom: none;

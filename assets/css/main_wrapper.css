@@ -1,0 +1,19 @@
+.qs-bold {
+	font-family: 'quicksand_bold';
+}
+
+.qs-reg {
+	font-family: 'quicksand_regular';
+}
+
+#owl-main .caption h2.dark-bg span {
+	background-color: #506A85;
+}
+
+.red-font-color {
+	color: #FA6C65;
+}
+
+.red-color-bg {
+	background-color: #FA6C65; 
+}
