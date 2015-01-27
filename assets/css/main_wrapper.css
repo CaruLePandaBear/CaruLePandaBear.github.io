@@ -14,6 +14,31 @@
 	color: #FA6C65;
 }
 
+.green-font {
+	color: #1ABB9C;
+}
+
+.blue-grey-font {
+	color: #73879C;
+}
+
+.black-font {
+	color: black;
+}
+
+.dark-grey-font {
+	color: #424151;
+}
+
 .red-color-bg {
 	background-color: #FA6C65; 
+}
+
+.flipper {
+	-moz-transform: scale(-1, 1);
+	-webkit-transform: scale(-1, 1);
+	-o-transform: scale(-1, 1);
+	-ms-transform: scale(-1, 1);
+	transform: scale(-1, 1);
+	display: inline-block;
 }
