@@ -6,6 +6,22 @@
 	font-family: 'quicksand_regular';
 }
 
+.border-r-3 {
+	border-radius: 3px;
+}
+
+.navbar-nav > li > a.border-b{
+	border-bottom: 1px solid rgba(255,255,255,0);
+}
+
+.font-s-50 {
+	font-size: 50px;
+}
+
+.open-sans {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
 #owl-main .caption h2.dark-bg span {
 	background-color: #506A85;
 }
