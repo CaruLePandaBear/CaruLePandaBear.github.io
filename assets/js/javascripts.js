@@ -2,6 +2,10 @@ $(document).ready( function() {
     console.log("hello jQuery");
     $("#wedding").on("click", function() {
     	console.log("hello click");
-        $("#loader").load("services.html");
+    	console.log($("#loader"));
+        $("#loader").load("services.html", function() {
+  				alert( "Load was performed." );
+			}
+		);
     });
 });
