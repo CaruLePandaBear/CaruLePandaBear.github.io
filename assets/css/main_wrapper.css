@@ -6,12 +6,20 @@
 	font-family: 'quicksand_regular';
 }
 
-.pretty-grey {
+.pretty-brown-grey {
 	color: #9e9d97;
+}
+
+.light-grey {
+	color: #acacac;
 }
 
 .line-h-100 {
 	line-height: 100px;
+}
+
+.line-h-para {
+	line-height: 1.2;
 }
 
 .vertical-a-m {
