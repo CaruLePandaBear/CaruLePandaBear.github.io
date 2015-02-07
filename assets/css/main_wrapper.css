@@ -49,7 +49,7 @@
 }
 
 .navbar-nav > li > a.border-b{
-	border-bottom: 1px solid rgba(255,255,255,0);
+	border-bottom: none;
 }
 
 .font-s-50 {
