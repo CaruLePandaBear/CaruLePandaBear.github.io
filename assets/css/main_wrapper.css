@@ -67,6 +67,10 @@
 	border-radius: 3px;
 }
 
+.margin-t-40 {
+	margin-top: 40px;
+}
+
 .border-l-r {
 	border-left: 2px solid black;
 	border-right: 2px solid black;
@@ -126,6 +130,17 @@
 
 #hero h2.text-transfrom-t {
 	text-transform: uppercase;
+}
+
+.btn.book-online {
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-left: 5px;
+}
+
+.margin-t-b-4 {
+	margin-top: 0;
+	margin-bottom: 4px;
 }
 
 .font-w-l {
