@@ -2753,12 +2753,12 @@ blockquote:before {
 }
 
 #owl-clients .item .text-overlay,
-#clients .thumb .text-overlay {
+.clients .thumb .text-overlay {
 	background: none;
 }
 
 #owl-clients .item img,
-#clients .thumb img {
+.clients .thumb img {
     -webkit-transition: all 200ms ease-out;
        -moz-transition: all 200ms ease-out;
          -o-transition: all 200ms ease-out;
@@ -2766,14 +2766,14 @@ blockquote:before {
 }
 
 #owl-clients .item:hover img,
-#clients .thumb:hover img {
+.clients .thumb:hover img {
 	opacity: .1;
 }
 
 #owl-clients .item .text-overlay .info h4,
 #owl-clients .item .text-overlay .info p,
-#clients .thumb .text-overlay .info h4,
-#clients .thumb .text-overlay .info p {
+.clients .thumb .text-overlay .info h4,
+.clients .thumb .text-overlay .info p {
 	color: inherit;
 }
 .filter,

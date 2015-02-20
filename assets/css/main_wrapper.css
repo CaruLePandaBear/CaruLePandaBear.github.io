@@ -131,6 +131,11 @@
 .font-w-l {
 	font-weight: lighter;
 }
+
+.bg-white {
+	background-color: white;
+}
+
 .font-s-40 {
 	font-size: 40px;
 }
