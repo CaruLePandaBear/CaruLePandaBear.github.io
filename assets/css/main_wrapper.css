@@ -185,6 +185,10 @@
 	padding-left: 13px;
 }
 
+.padding-b-15 {
+	padding-bottom: 25px;
+}
+
 .open-sans {
 	font-family: 'Source Sans Pro', sans-serif;
 }
